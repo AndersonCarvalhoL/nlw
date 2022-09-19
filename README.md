@@ -1,6 +1,6 @@
 ># NLW eSports
 
-![preview](/.github/preview.png)
+![Preview](/.github/Preview.png)
 
 Projeto feito do evento Next Level Week
 
