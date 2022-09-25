@@ -14,4 +14,4 @@ Projeto feito do evento Next Level Week
 
 >## Contato
 
-[<img aling="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/anderson-carvalho-b1640421a/)
+[<img aling="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/anderson-carvalho-b1640421a/)
